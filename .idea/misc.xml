@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/drawable/border_botton.xml" value="0.2075" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_menu.xml" value="0.22" />
       </map>
     </option>
   </component>
